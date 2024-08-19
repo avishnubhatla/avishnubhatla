@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avishnubhatla
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...web developement
+- 🌱 I’m currently learning ...machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
